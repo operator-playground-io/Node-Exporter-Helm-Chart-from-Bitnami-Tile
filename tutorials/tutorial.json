@@ -24,12 +24,6 @@
          "title":"Upgrade and Rollback node-exporter Helm Chart tutorial"
       },
       {
-         "description":" How to uninstall Helm Chart",
-         "duration":"5 min",
-         "tutorial_name":"uninstall-helm-chart.md",
-         "title":"Uninstall node-exporter Helm Chart"
-      },
-      {
          "description":" How to Install Prometheus Monitoring and node_exporter on CentOS 8.md",
          "duration":"5 min",
          "tutorial_name":"How to Install Prometheus Monitoring and node_exporter on CentOS 8.md",
