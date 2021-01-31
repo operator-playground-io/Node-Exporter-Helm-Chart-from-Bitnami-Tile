@@ -19,23 +19,25 @@ You should get output similar to this:
 
 Output:
 ```
-  
+NAME      	NAMESPACE 	REVISION	UPDATED                                	STATUS  	CHART                	APP VERSION
+grafana   	monitoring	1       	2021-01-31 14:49:44.452869427 -0600 CST	deployed	grafana-5.1.0        	7.3.7      
+prometheus	monitoring	2       	2021-01-31 14:52:20.860742559 -0600 CST	deployed	kube-prometheus-3.6.0	0.45.0      
 ```
-
 
 You need to follow below steps.
 
 **Step 2:** Update your Helm repositories with following command :
 
 ```execute
-helm repo update 
-
+helm repo update
+```
 You can expect the following output:
+
 ```
 Hang tight while we grab the latest from your chart repositories...
 ...Successfully got an update from the "bitnami" chart repository
 Update Complete. ⎈ Happy Helming!⎈ 
-
+```
 
 **Step 3:** Check if there’s a newer version of the node-exporter chart available using following command:
 
@@ -107,7 +109,9 @@ helm list -n monitoring
 ```
 
 Output:
-```
+`NAME      	NAMESPACE 	REVISION	UPDATED                                	STATUS  	CHART                	APP VERSION
+grafana   	monitoring	1       	2021-01-31 14:49:44.452869427 -0600 CST	deployed	grafana-5.1.0        	7.3.7      
+prometheus	monitoring	2       	2021-01-31 14:52:20.860742559 -0600 CST	deployed	kube-prometheus-3.6.0	0.45.0    ``
 
 ```
 
