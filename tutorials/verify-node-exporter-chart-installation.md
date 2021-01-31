@@ -30,10 +30,6 @@ prometheus-prometheus-kube-prometheus-prometheus-0       2/2     Running   1    
 
 It may take few minutes to change the `STATUS` from `ContainerCreating` to `Running`. 
 
-```output
-
-
-```
 
 Once the `node-exporter` PODs are up and running , and `READY` states are `1/1`, your node-exporter is ready to use.
 
