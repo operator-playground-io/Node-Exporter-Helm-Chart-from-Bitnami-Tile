@@ -34,8 +34,8 @@
         "exec": "helm install my-release bitnami/node-exporter"
       },
        {
-        "description": "How to Install Prometheus Monitoring and node_exporter on CentOS 8",
-        "exec": "wget https://github.com/prometheus/prometheus/releases/download/v2.13.1/prometheus-2.13.1.linux-amd64.tar.gz"
+        "description": "How to Install Prometheus Monitoring and node_exporter ",
+        "exec": "helm repo add bitnami https://charts.bitnami.com/bitnami"
       }     
     ],
     "display": [
