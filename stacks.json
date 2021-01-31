@@ -1,0 +1,23 @@
+{
+  "title": "Node-exporter helm chart from bitnami",
+  "description": "Node-exporter helm chart from bitnami",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "",
+  "stack_id": "node-exporter",
+  "type": "stack",
+  "categories": [
+    "Containerization"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Node-Exporter-Helm-Chart-from-Bitnami-Tile.git",
+  "git_commit": "",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+}

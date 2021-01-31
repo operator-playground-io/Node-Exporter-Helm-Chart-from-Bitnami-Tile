@@ -1,0 +1,48 @@
+{
+    "name": "Node-exporter helm chart from bitnami",
+    "description": "Node-exporter helm chart from bitnami",
+    "logo": "_images/SalesStack.png",
+    "has_supporting_content": true,
+    "stack_id": "node-exporter",
+    "type": "stack",
+    "categories": ["Containerization"],
+    "platform": "Kubernetes",
+    "cover": "cover.md",
+    "meta": {
+          "Type": [
+              "Chart"
+          ],
+          "Install time": [
+              "10 minutes"
+          ]
+    },
+  "deployment_information": {
+    "Project": "NA",
+    "Deployment Namespace": "node-exporter"
+  },
+   "commands": [
+      {
+        "description": "To create a Namespace ",
+        "exec": "kubectl create namespace node-exporter"
+      },
+      {
+        "description": "Add the bitnami charts repo to Helm ",
+        "exec": "helm repo add bitnami https://charts.bitnami.com/bitnami"
+      },
+      {
+        "description": "To install the chart with the release name my-release:",
+        "exec": "helm install my-release bitnami/node-exporter"
+      },
+       {
+        "description": "How to Install Prometheus Monitoring and node_exporter on CentOS 8",
+        "exec": "wget https://github.com/prometheus/prometheus/releases/download/v2.13.1/prometheus-2.13.1.linux-amd64.tar.gz"
+      }     
+    ],
+    "display": [
+      {
+        "name": "Developer Dashboard",
+        "url": "##DNS.host##/codeserver",
+        "enabled": true
+      }
+    ]
+  }
