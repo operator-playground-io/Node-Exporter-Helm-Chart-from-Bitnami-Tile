@@ -1,0 +1,47 @@
+{
+   "name":"node-exporter Helm Chart Tutorial",
+   "appLayout":"accordion",
+   "appTheme":"g90",
+   "footer":"footer.md",
+   "tutorials":[
+      {
+         "description":" How to verify chart is installed successfully.",
+         "duration":"5 min",
+         "tutorial_name":"verify-node-exporter-chart-installation.md",
+         "title":"Verify Chart Installation is successful"
+      },
+
+      {
+         "description":" Detail description of Configuration Parameters of node-exporter Helm Chart",
+         "duration":"5 min",
+         "tutorial_name":"configuration-parameters-of-node-exporter-helm-chart.md",
+         "title":"Configuration Parameters of node-exporter Helm Chart Tutorial"
+      },
+      {
+         "description":" How to Upgrade and Rollback node-exporter helm chart tutorial",
+         "duration":"15 min",
+         "tutorial_name":"upgrading-and-rollback-node-exporter.md",
+         "title":"Upgrade and Rollback node-exporter Helm Chart tutorial"
+      },
+      {
+         "description":" How to uninstall Helm Chart",
+         "duration":"5 min",
+         "tutorial_name":"uninstall-helm-chart.md",
+         "title":"Uninstall node-exporter Helm Chart"
+      },
+      {
+         "description":" How to Install Prometheus Monitoring and node_exporter on CentOS 8.md",
+         "duration":"5 min",
+         "tutorial_name":"How to Install Prometheus Monitoring and node_exporter on CentOS 8.md",
+         "title":"How to Install Prometheus Monitoring and node_exporter on CentOS 8"
+      }
+      
+   ],
+   "usefulLinks":[
+      {
+         "title":"node-exporter Helm Chart",
+         "description":"node-exporter Bitnami Helm Chart",
+         "url":"https://bitnami.com/stack/node-exporter/helm"
+      }
+   ]
+}
