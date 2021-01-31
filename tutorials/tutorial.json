@@ -24,10 +24,10 @@
          "title":"Upgrade and Rollback node-exporter Helm Chart tutorial"
       },
       {
-         "description":" How to Install Prometheus Monitoring and node_exporter on CentOS 8.md",
+         "description":" How to configuration Parameters of prometheus Helm Chart",
          "duration":"5 min",
-         "tutorial_name":"How to Install Prometheus Monitoring and node_exporter on CentOS 8.md",
-         "title":"How to Install Prometheus Monitoring and node_exporter on CentOS 8"
+         "tutorial_name":"configuration-Parameters-of-prometheus-Helm-Chart.",
+         "title":"How to configuration Parameters of prometheus Helm Chart"
       }
       
    ],
