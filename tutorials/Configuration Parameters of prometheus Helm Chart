@@ -12,10 +12,6 @@ The detailed description of these lists of configurable parameters for prometheu
 
 https://github.com/bitnami/charts/tree/master/bitnami/kube-prometheus
 
-
-
-
-
 ## Parameters
 
 The following table lists the configurable parameters of the kube-prometheus chart and their default values.
