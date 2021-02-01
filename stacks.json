@@ -1,6 +1,6 @@
 {
-  "title": "Node exporter ",
-  "description": "Node exporter",
+  "title": "Node-exporter ",
+  "description": "Node-exporter",
   "logo": "_images/SalesStack.png",
   "enabled": true,
   "category_label": [
