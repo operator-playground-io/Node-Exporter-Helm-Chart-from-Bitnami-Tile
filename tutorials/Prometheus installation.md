@@ -69,14 +69,20 @@ Prometheus Monitoring is fast becoming one of the Docker and Kubernetes monitori
 
 We can monitor full Kubernetes cluster end to end with Prometheus.
 
-1-The Prometheus stack includes:
-2-Prometheus
-3-Alertmanager
-4-Kube-state-metrics
-5-node-exporter
-6-Grafana
+1-The Prometheus stack includes
 
-We can also include alerts and dashboards in it !!
+1-Prometheus
+
+2-Alertmanager
+
+
+3-Kube-state-metrics
+
+4-node-exporter
+
+5-Grafana
+
+**We can also include alerts and dashboards in it !!**
 
 Capacity planning
 
