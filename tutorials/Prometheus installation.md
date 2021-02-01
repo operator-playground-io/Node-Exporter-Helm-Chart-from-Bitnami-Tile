@@ -3,6 +3,9 @@
 Prometheus is free of cost software that is used to monitor events and Alerting tools. It helps to record live metrics in a timestamp series database using Http model with n number of queries and real-time alerting.
 
 
+![](_images/Prometheus Architecture.PNG)
+
+
 # kube-prometheus
 
 [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) collects Kubernetes manifests to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
