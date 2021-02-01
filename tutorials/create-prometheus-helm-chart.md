@@ -145,20 +145,20 @@ Below are example configurations for Email, Slack and Webhook receiver:
 
 **Slack**
 
-global:
-  resolve_timeout: 5m
-  slack_api_url: '< slack_webhook_url >'
-receivers:
-- name: 'slack-notifications'
-  slack_configs:
-  - channel: '#alerts'
-route:
-  group_by:
-  - job
-  receiver: 'slack-notifications'
-  group_interval: 5m
-  group_wait: 30s
-  repeat_interval: 30m
+ global:
+   resolve_timeout: 5m
+   slack_api_url: '< slack_webhook_url >'
+ receivers:
+ - name: 'slack-notifications'
+   slack_configs:
+   - channel: '#alerts'
+ route:
+   group_by:
+   - job
+   receiver: 'slack-notifications'
+   group_interval: 5m
+   group_wait: 30s
+   repeat_interval: 30m
   
   
   Update configuration as above in the 1-alert manager-configmap.yaml file under manifests directory and apply the configurations.
