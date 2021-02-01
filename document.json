@@ -1,6 +1,6 @@
 {
-    "name": "Node exporter ",
-    "description": "Node exporter",
+    "name": "Node-exporter ",
+    "description": "Node-exporter",
     "logo": "_images/SalesStack.png",
     "has_supporting_content": true,
     "stack_id": "node exporter",
@@ -18,7 +18,7 @@
     },
   "deployment_information": {
     "Project": "NA",
-    "Deployment Namespace": "node exporter"
+    "Deployment Namespace": "node-exporter"
   },
    "commands": [
       {
