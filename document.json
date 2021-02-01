@@ -32,11 +32,8 @@
       {
         "description": "To install the chart with the release name my-release:",
         "exec": "helm install my-release bitnami/node-exporter"
-      },
-       {
-        "description": "Configuration of prometheus Helm Chart",
-        "exec": "helm repo add bitnami https://charts.bitnami.com/bitnami"
-      }     
+      }
+    
     ],
     "display": [
       {
