@@ -1,4 +1,4 @@
-###**What is Prometheus?**
+###What is Prometheus?
 
 Prometheus is free of cost software that is used to monitor events and Alerting tools. It helps to record live metrics in a timestamp series database using Http model with n number of queries and real-time alerting.
 
