@@ -1,9 +1,9 @@
 {
-    "name": "Node-exporter helm chart from bitnami",
-    "description": "Node-exporter helm chart from bitnami",
+    "name": "Node exporter ",
+    "description": "Node exporter",
     "logo": "_images/SalesStack.png",
     "has_supporting_content": true,
-    "stack_id": "node-exporter",
+    "stack_id": "node exporter",
     "type": "stack",
     "categories": ["Containerization"],
     "platform": "Kubernetes",
@@ -18,7 +18,7 @@
     },
   "deployment_information": {
     "Project": "NA",
-    "Deployment Namespace": "node-exporter"
+    "Deployment Namespace": "node exporter"
   },
    "commands": [
       {
