@@ -32,7 +32,7 @@
       {
          "description":" How to Install Prometheus Monitoring",
          "duration":"5 min",
-         "tutorial_name":"",
+         "tutorial_name":"Prometheus installation.md",
          "title":"How to Install Prometheus Monitoring"
       }
       
