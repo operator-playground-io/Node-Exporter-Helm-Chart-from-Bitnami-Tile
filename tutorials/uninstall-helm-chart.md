@@ -13,8 +13,10 @@ Check your deployed node-exporter helm chart:
 
  Output will be similar:
 
-```output
-
+```
+NAME      	NAMESPACE 	REVISION	UPDATED                                	STATUS  	CHART                	APP VERSION
+grafana   	monitoring	1       	2021-01-31 14:49:44.452869427 -0600 CST	deployed	grafana-5.1.0        	7.3.7      
+prometheus	monitoring	2       	2021-01-31 14:52:20.860742559 -0600 CST	deployed	kube-prometheus-3.6.0	0.45.0   
 ```
 
 To uninstall the node-exporter helm chart, use the helm delete command:
