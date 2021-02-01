@@ -49,13 +49,15 @@ Centos7 RHEL
 
 **Object of the tutorial**
 
-1- What is Node-Exporter
+1- What is Node-Exporter?
 
-2-What is Kube-state-metrics?
+2- Waht is Node Exporter hem chart from Bitnami?
 
 3-Why Prometheus Monitoring?
 
-4-Prerequisites for setting up Prometheus monitoring
+4-What is Kube-state-metrics?
+
+5-Prerequisites for setting up Prometheus monitoring
 
 
 
