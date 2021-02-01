@@ -8,32 +8,31 @@
          "description":" How to verify chart is installed successfully.",
          "duration":"5 min",
          "tutorial_name":"verify-node-exporter-chart-installation.md",
-         "title":"Verify Chart Installation is successful"
+         "title":"1: Verify Chart Installation is successful"
       },
-
       {
          "description":" Detail description of Configuration Parameters of node-exporter Helm Chart",
          "duration":"5 min",
          "tutorial_name":"configuration-parameters-of-node-exporter-helm-chart.md",
-         "title":"Configuration Parameters of node-exporter Helm Chart Tutorial"
+         "title":"2: Configuration Parameters of node-exporter Helm Chart Tutorial"
       },
       {
          "description":" How to Upgrade and Rollback node-exporter helm chart tutorial",
          "duration":"15 min",
          "tutorial_name":"upgrading-and-rollback-node-exporter.md",
-         "title":"Upgrade and Rollback node-exporter Helm Chart tutorial"
+         "title":"3: Upgrade and Rollback node-exporter Helm Chart tutorial"
       },
       {
          "description":" How to uninstall Helm Chart",
          "duration":"5 min",
          "tutorial_name":"uninstall-helm-chart.md",
-         "title":"Uninstall node-exporter Helm Chart"
+         "title":"4: Uninstall node-exporter Helm Chart"
       },
       {
          "description":" How to Install Prometheus Monitoring",
          "duration":"5 min",
          "tutorial_name":"Prometheus installation.md",
-         "title":"How to Install Prometheus Monitoring"
+         "title":"5: How to Install Prometheus Monitoring"
       }
       
    ],
