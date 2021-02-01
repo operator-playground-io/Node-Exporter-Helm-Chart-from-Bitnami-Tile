@@ -32,8 +32,8 @@
    ],
    "usefulLinks":[
       {
-         "title":"node-exporter Helm Chart",
-         "description":"node-exporter Bitnami Helm Chart",
+         "title":"node exporter Helm Chart",
+         "description":"node exporter Bitnami Helm Chart",
          "url":"https://bitnami.com/stack/node-exporter/helm"
       }
    ]
