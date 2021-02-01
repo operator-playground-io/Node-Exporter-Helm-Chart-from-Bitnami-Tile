@@ -23,10 +23,10 @@
         "title":"3: Upgrade and Rollback node-exporter Helm Chart tutorial"
       },
       {
-         "description":" How to configuration Parameters of prometheus Helm Chart",
+         "description":" How to create prometheus helm chart",
          "duration":"5 min",
-         "tutorial_name":"configuration-Parameters-of-prometheus-Helm-Chart.md",
-         "title":"4: How to configure Parameters of prometheus Helm Chart"
+         "tutorial_name":"create-prometheus-helm-chart.md,
+         "title":"4: How to create prometheus helm chart""
       }
       
    ],
